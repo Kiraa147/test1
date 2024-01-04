@@ -233,7 +233,7 @@ body, input, select, textarea {
   font-family: "MONTSERRAT", sans-serif;
   font-size: 16pt;
   font-weight: 400;
-  letter-spacing: -0.01em;
+  letter-spacing: 0.1em;
   line-height: 1.65em; }
   @media screen and (max-width: 1680px) {
     body, input, select, textarea {
@@ -733,7 +733,7 @@ button,
   -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
   -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  background-color: #1cb495;
+  background-color: #adadad4b;
   border-radius: 6px;
   border: 0;
   color: #ffffff !important;
